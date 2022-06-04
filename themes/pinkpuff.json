@@ -307,7 +307,7 @@
 		"name": "Python special word",
 		"scope": [
 			"variable.language.special.self.python",
-			"variable.language.special.cls.python",
+			"variable.language.special.cls.python"
 		],
 		"settings": {
 		  "foreground": "#D58FDB"
