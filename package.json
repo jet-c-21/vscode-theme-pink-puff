@@ -2,7 +2,7 @@
     "name": "vscode-theme-pink-puff",
     "displayName": "Pink Puff",
     "description": "I only need three colors in my life, pink, black, and white. And Pink is the most romantic, passionate, and vigorous color.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.0.0"
     },
