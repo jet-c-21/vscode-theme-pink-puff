@@ -262,7 +262,7 @@
 		"name": "Support function",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#ee0f88"
+		  "foreground": "#EE0F88"
 		}
 	  },
 	  {
@@ -296,7 +296,7 @@
 		"name": "Python class",
 		"scope":"entity.name.type.class.python",
 		"settings": {
-		  "foreground": "#FEF5d4"
+		  "foreground": "#FFF4CD"
 		}
 	  },
 
