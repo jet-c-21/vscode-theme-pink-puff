@@ -157,21 +157,21 @@
 		  "meta.identifier.css"
 		],
 		"settings": {
-		  "foreground": "#5f8658"
+		  "foreground": "#5F8658"
 		}
 	  },
 	  {
 		"name": "Language constant (boolean, null)",
 		"scope": "constant.language",
 		"settings": {
-		  "foreground": "#cb602d"
+		  "foreground": "#CB602D"
 		}
 	  },
 	  {
 		"name": "Character escape",
 		"scope": "constant.character.escape",
 		"settings": {
-		  "foreground": "#cb602d"
+		  "foreground": "#CB602D"
 		}
 	  },
 	  {
@@ -192,7 +192,7 @@
 		  "storage.type.function.arrow.js"
 		],
 		"settings": {
-		  "foreground": "#5f8658"
+		  "foreground": "#5F8658"
 		}
 	  },
 	  {
@@ -324,7 +324,7 @@
 		  "string.quoted.docstring.multi.python constant.character.escape.python"
 		],
 		"settings": {
-		  "foreground": "#5f8658",
+		  "foreground": "#5F8658",
 		  "fontStyle": "normal"
 		}
 	  },
@@ -373,7 +373,7 @@
 		"name": "Puncuation Definition block",
 		"scope": "punctuation.section.embedded",
 		"settings": {
-		  "foreground": "#5f8658"
+		  "foreground": "#5F8658"
 		}
 	  },
 	  {
