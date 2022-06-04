@@ -299,7 +299,16 @@
 		  "foreground": "#FFF4CD"
 		}
 	  },
-
+	  {
+		"name": "Python decorator",
+		"scope": [
+			"punctuation.definition.decorator.python",
+			"support.type.python"
+		],
+		"settings": {
+		  "foreground": "#7EB3FF"
+		}
+	  },
 
 
 
