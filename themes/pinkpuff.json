@@ -181,7 +181,6 @@
 		  "foreground": "#A8C3C8"
 		}
 	  },
-  
 	  {
 		"name": "Punctuation definition",
 		"scope": [
@@ -189,11 +188,6 @@
 		  "punctuation.definition.block.js",
 		  "punctuation.definition.string.begin",
 		  "punctuation.definition.string.end",
-		  "string.quoted.single.python",
-		  "string.quoted.docstring.multi.python",
-		  "string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
-		  "string.quoted.docstring.multi.python punctuation.definition.string.end.python",
-		  "string.quoted.docstring.multi.python constant.character.escape.python",
 		  "meta.property-list.css",
 		  "storage.type.function.arrow.js"
 		],
@@ -296,7 +290,7 @@
 		"name": "Python class",
 		"scope":"entity.name.type.class.python",
 		"settings": {
-		  "foreground": "#FFF4CD"
+		  "foreground": "#D58FDB"
 		}
 	  },
 	  {
@@ -309,9 +303,31 @@
 		  "foreground": "#7EB3FF"
 		}
 	  },
-
-
-
+	  {
+		"name": "Python special word",
+		"scope": [
+			"variable.language.special.self.python",
+			"variable.language.special.cls.python"
+		],
+		"settings": {
+		  "foreground": "#D58FDB"
+		}
+	  },
+	  {
+		"name": "Python String",
+		"scope": [
+		  "storage.type.string.python",
+		  "string.quoted.single.python",
+		  "string.quoted.docstring.multi.python",
+		  "string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+		  "string.quoted.docstring.multi.python punctuation.definition.string.end.python",
+		  "string.quoted.docstring.multi.python constant.character.escape.python"
+		],
+		"settings": {
+		  "foreground": "#5f8658",
+		  "fontStyle": "normal"
+		}
+	  },
 
 	  {
 		"name": "JS Variable Property",
